@@ -1,0 +1,46 @@
+body{
+  font-family: optima;
+}
+
+h1{
+  font-family: optima;
+}
+
+h2{
+  font-family: optima;
+}
+
+#pics{
+  height: 200px;
+  width: 100px;
+  background-color: black;
+}
+
+#picsWhite{
+  height: 200px;
+  width: 100px;
+  background-color: white;
+}
+
+#picGif{
+  height: 200px;
+  width: 100px;
+  background-color: black;
+}
+
+#pics:hover{
+  opacity: 0.7;
+}
+
+#picsWhite:hover{
+  opacity: 0.7;
+}
+
+#picGif:hover{
+  opacity: 0.7;
+}
+
+img{
+  height: 200px;
+  width: 200px;
+}
