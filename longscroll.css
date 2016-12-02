@@ -1,0 +1,313 @@
+body{
+  margin: 0;
+  font-family: Big Caslon;
+  color: white;
+  font-size: 50px;
+  background-color: black;
+}
+
+#wrapper{
+  height: 11100px;
+  background-color: black;
+}
+
+#appa{
+  width: 100px;
+  height: 200px;
+  position: fixed;
+  top: 185px;
+  left: 17px;
+}
+
+#counter{
+  width: 85px;
+  height: 50px;
+  line-height: 50px;
+  font-size: 20px;
+  text-align: center;
+  position: fixed;
+  top: 280px;
+  left: 22px;
+  background-color: black;
+  border: 1px solid #e16426;
+}
+
+#appaTwo{
+  position: fixed;
+  top: 10px;
+  left: 520px;
+  width: 100px;
+  height: 200px;
+}
+
+section{
+  width: 100%;
+  height: 1000px;
+}
+
+#one{
+  height: 200px;
+  width: 300px;
+  position: absolute;
+  top: 1600px;
+  right: 150px;
+  font-size: 150px;
+  font-family: Brush Script MT;
+  color: black;
+}
+
+#two{
+  height: 200px;
+  width: 300px;
+  position: absolute;
+  top: 2600px;
+  left: 150px;
+  font-size: 150px;
+  font-family: Brush Script MT;
+  color: black;
+}
+
+#three{
+  height: 200px;
+  width: 300px;
+  position: absolute;
+  top: 3500px;
+  right: 100px;
+  font-size: 150px;
+  font-family: Brush Script MT;
+  color: black;
+}
+
+#four{
+  height: 200px;
+  width: 300px;
+  position: absolute;
+  top: 4500px;
+  left: 200px;
+  font-size: 150px;
+  font-family: Brush Script MT;
+  color: black;
+}
+
+#five{
+  height: 500px;
+  width: 300px;
+  position: absolute;
+  top: 5500px;
+  right: 100px;
+  background-color: black;
+}
+
+#six{
+  height: 380px;
+  width: 300px;
+  position: absolute;
+  top: 6500px;
+  left: 150px;
+  background-color: black;
+}
+
+#seven{
+  height: 500px;
+  width: 300px;
+  position: absolute;
+  top: 7500px;
+  right: 100px;
+  background-color: black;
+}
+
+#eight{
+  height: 500px;
+  width: 300px;
+  position: absolute;
+  top: 8500px;
+  left: 150px;
+  background-color: black;
+}
+
+#nine{
+  height: 500px;
+  width: 300px;
+  position: absolute;
+  top: 9500px;
+  right: 300px;
+  background-color: black;
+}
+
+#ten{
+  height: 200px;
+  width: 300px;
+  position: absolute;
+  top: 10500px;
+  left: 250px;
+  background-color: black;
+}
+
+#water{
+  height: 1000px;
+  background: skyblue; /* For browsers that do not support gradients */
+  /* For Safari 5.1 to 6.0*/
+  background: -webkit-linear-gradient(black,blue,skyblue);
+  /* For Opera 11.1 to 12.0*/
+  background: -o-linear-gradient(black,blue,skyblue);
+  /* For Fx 3.6 to 15*/
+  background: -moz-linear-gradient(black,blue,skyblue);
+  /* Standard syntax*/
+  background: linear-gradient(to bottom, black,blue,skyblue);
+  /*ABOVE IS GRADIENT*/
+}
+
+#earth{
+  height: 1000px;
+  background: forestgreen; /* For browsers that do not support gradients */
+  /* For Safari 5.1 to 6.0*/
+  background: -webkit-linear-gradient(skyblue,green,forestgreen);
+  /* For Opera 11.1 to 12.0*/
+  background: -o-linear-gradient(skyblue,green,forestgreen);
+  /* For Fx 3.6 to 15*/
+  background: -moz-linear-gradient(skyblue,green,forestgreen);
+  /* Standard syntax*/
+  background: linear-gradient(to bottom, skyblue,green,forestgreen);
+  /*ABOVE IS GRADIENT*/
+}
+
+#fire{
+  height: 1000px;
+  background: indianred; /* For browsers that do not support gradients */
+  /* For Safari 5.1 to 6.0*/
+  background: -webkit-linear-gradient(forestgreen,red,yellow);
+  /* For Opera 11.1 to 12.0*/
+  background: -o-linear-gradient(forestgreen,red,yellow);
+  /* For Fx 3.6 to 15*/
+  background: -moz-linear-gradient(forestgreen,red,yellow);
+  /* Standard syntax*/
+  background: linear-gradient(to bottom, forestgreen,red,yellow);
+  /*ABOVE IS GRADIENT*/
+}
+
+#air{
+  height: 1000px;
+  background: skyblue; /* For browsers that do not support gradients */
+  /* For Safari 5.1 to 6.0*/
+  background: -webkit-linear-gradient(yellow,skyblue,lavender,skyblue,black);
+  /* For Opera 11.1 to 12.0*/
+  background: -o-linear-gradient(yellow,skyblue,lavender,skyblue,black);
+  /* For Fx 3.6 to 15*/
+  background: -moz-linear-gradient(yellow,skyblue,lavender,skyblue,black);
+  /* Standard syntax*/
+  background: linear-gradient(to bottom, yellow,skyblue,lavender,skyblue,black);
+  /*ABOVE IS GRADIENT*/
+}
+
+#avatar{
+  height: 200px;
+  width: 300px;
+  position: absolute;
+  top: 100px;
+  left: 200px;
+  color: white;
+  font-size: 270px;
+  font-family: Brush Script MT;
+}
+
+#tag{
+  height: 200px;
+  width: 1000px;
+  position: absolute;
+  top: 400px;
+  left: 500px;
+  font-size: 100px;
+  font-family: Brush Script MT;
+}
+
+#symbol{
+  height: 200px;
+  width: 300px;
+  position: absolute;
+  top: 1500px;
+  left: 150px;
+  font-size: 150px;
+  font-family: Brush Script MT;
+  color: black;
+}
+
+#symbolTwo{
+  height: 200px;
+  width: 300px;
+  position: absolute;
+  top: 2500px;
+  right: 200px;
+  font-size: 150px;
+  font-family: Brush Script MT;
+  color: black;
+}
+
+#symbolThree{
+  height: 200px;
+  width: 300px;
+  position: absolute;
+  top: 3400px;
+  left: 150px;
+  font-size: 150px;
+  font-family: Brush Script MT;
+  color: black;
+}
+
+#symbolFour{
+  height: 200px;
+  width: 300px;
+  position: absolute;
+  top: 4400px;
+  right: 200px;
+  font-size: 150px;
+  font-family: Brush Script MT;
+  color: black;
+}
+
+#map{
+  height: 500px;
+  width: 300px;
+  position: absolute;
+  top: 5450px;
+  left: 300px;
+}
+
+#fireNation{
+  height: 500px;
+  width: 300px;
+  position: absolute;
+  top: 6500px;
+  left: 500px;
+}
+
+#vanished{
+  height: 500px;
+  width: 300px;
+  position: absolute;
+  top: 7550px;
+  left: 200px;
+}
+
+#ice{
+  height: 500px;
+  width: 300px;
+  position: absolute;
+  top: 8600px;
+  left: 700px;
+}
+
+#aangMed{
+  height: 500px;
+  width: 300px;
+  position: absolute;
+  top: 9550px;
+  left: 200px;
+}
+
+#saved{
+  height: 500px;
+  width: 300px;
+  position: absolute;
+  top: 10500px;
+  left: 600px;
+}
